@@ -1,3 +1,5 @@
-<resources>
+ <resources>
     <string name="app_name">AndJava</string>
+    <string name="textview_txt">TextView</string>
+    <string name="enter_text">Enter Text</string>
 </resources>
