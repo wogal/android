@@ -17,6 +17,11 @@ dependencyResolutionManagement {
         google()
         mavenCentral()
     }
+    versionCatalogs {
+        create("aa") {
+            from(files("gradle/aa.versions.toml"))
+        }
+    }
 }
 
 rootProject.name = "AndJava"
