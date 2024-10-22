@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EarleJava</string>
+    <string name="main_menu">Main \nMenu</string>
+    <string name="textview">TextView</string>
+    <string name="button">Button</string>
+    <string name="main_menu_1">Main \nMenu\n1</string>
+</resources>
