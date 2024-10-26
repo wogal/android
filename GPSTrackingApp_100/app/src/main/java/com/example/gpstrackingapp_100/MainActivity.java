@@ -10,9 +10,10 @@ import androidx.core.view.WindowInsetsCompat;
 
 public class MainActivity extends AppCompatActivity {
 
-    // wogal Earle -------////-------// --
+ //   now is Sat 10/26/2024 - 7:04pm
 
-    earle
+    // wogal Earle -------////-------// --
+ //   earle
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
