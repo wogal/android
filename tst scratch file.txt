@@ -1,5 +1,12 @@
 
 
+
+
+      android:background="@color/Q_backGround"
+      android:background="@color/Q_backGround"
+
+
+
 // Labels
 tv_labellat
 tv_lat
